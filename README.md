@@ -1,5 +1,6 @@
 # Log Analyzer
 ### This project was built to efficiently find the relevant logs in log files for maintenance purposes during the internship.
+Build in C# with Visual Studio.
 
 ## Main functions and properties of the program
 
