@@ -5,7 +5,7 @@ Build in C# with Visual Studio.
 ## Main functions and properties of the program
 
 #### Functions
-- preferred log file can be selected from the dropdown menu
+- Preferred log file can be selected from the dropdown menu
 - There are two sets of filters to be entered
   - Three fields of filter can be enterted for each filter set and logs that match either of filter set 1 or filter set 2 will be shown.
 - The desired number of matching logs can be enterted; if the number exceeds total number of logs exist or no number is entered, it will show all the matching logs.
